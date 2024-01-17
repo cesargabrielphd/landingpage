@@ -1,3 +1,3 @@
 
- - [cadastro](czargab18.github.io/caminhodigital/cadadstro)
- - [obrigado](czargab18.github.io/caminhodigital/obrigado)
+ - [cadastro](https://czargab18.github.io/caminhodigita/cadadstro)
+ - [obrigado](https://czargab18.github.io/caminhodigital/obrigado)
