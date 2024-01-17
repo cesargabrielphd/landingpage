@@ -42,7 +42,7 @@ main .content .content-copy div.copy-desc {
   font-weight: normal;
 }
 
-main .content div.content-copy form.form input {
+main .content div.content-copy form input {
   width: 598px;
   height: 48px;
   padding: 10px;
@@ -51,7 +51,7 @@ main .content div.content-copy form.form input {
   border-radius: 8px;
   font-size: 16px;
 }
-main .content div.content-copy form.form button {
+main .content div.content-copy form button {
   width: 598px;
   height: 48px;
   padding: 10px;
