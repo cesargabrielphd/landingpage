@@ -41,6 +41,22 @@ main .content .content-copy div.copy-desc {
   font-size: 24px;
   font-weight: normal;
 }
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  main .content .content-copy {
+    width: calc(592px - 25%);
+  }
+  main .content .content-copy div.copy-agencia {
+    font-size: 26px;
+  }
+  main .content .content-copy div.copy-cta {
+    font-size: 32px;
+    font-weight: bold;
+    width: 400px;
+  }
+  main .content .content-copy div.copy-desc {
+    font-size: 16px;
+  }
+}
 
 main .content div.content-copy form input {
   width: 598px;
@@ -56,13 +72,25 @@ main .content div.content-copy form button {
   height: 48px;
   padding: 10px;
   border-radius: 8px;
-  background-color: #DA3F27;
+  background-color: #da3f27;
   font-size: 16px;
-  font-weight:bolder ;
+  font-weight: bolder;
   color: #ffffff;
   /* text-align: left; */
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  main .content div.content-copy form input,
+  main .content div.content-copy form button {
+    width: 400px;
+  }
 }
 
 main img {
   height: 70%;
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  main .content-img {
+    width: 300px;
+    height: 550px;
+  }
 }
